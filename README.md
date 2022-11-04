@@ -1,3 +1,5 @@
+#Descargar y descomprimir el archivo .rar
+
 # SoftwareGestionPHP
 Codigo en php para gestion
 #1.- bd : carpeta que contiene el query de la base de datos listo para ejecutar (importante montar de primero la base de datos a la herramienta, yo utilice mysqlworkbench)
